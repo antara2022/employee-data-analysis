@@ -35,7 +35,7 @@ Analyzes Employee Data using SQL and SQLAlchemy Queries
 
 - Create a bar chart of average salary by title
 
-![](EmployeeSQL/barchart_title)
+![](EmployeeSQL/barchart_title.png)
 
 ---------------------------------------------------
 
